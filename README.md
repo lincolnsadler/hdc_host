@@ -1,6 +1,6 @@
 # HDC Host - Site de Hospedagem
 
-Este repositório contém o código-fonte de um site simples para uma empresa fictícia de hospedagem, desenvolvido como parte do aprendizado em um curso de desenvolvimento web.
+Este repositório contém o código-fonte de um site simples para uma empresa fictícia de hospedagem, com o intuito de desenvolver meu aprendizado em HTML / CSS e responsividade.
 
 ## Tecnologias Utilizadas
 
