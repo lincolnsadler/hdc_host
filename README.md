@@ -1,26 +1,27 @@
-# HDC Host - Site de Hospedagem
 
-Este repositório contém o código-fonte de um site simples para uma empresa fictícia de hospedagem, com o intuito de desenvolver meu aprendizado em HTML, CSS e responsividade.
+# HDC Host - Hosting Website
 
-## Tecnologias Utilizadas
+This repository contains the source code for a simple website for a fictional hosting company, aimed at developing my knowledge in HTML, CSS, and responsiveness.
+
+## Technologies Used
 
 * HTML5
 * CSS3
 
-## Estrutura do Projeto
+## Project Structure
 
-* `index.html` - Página principal do site.
-* `css/` - Pasta contendo os estilos CSS.
-* `img/` - Pasta contendo imagens utilizadas no site.
+* `index.html` - Main page of the website.
+* `css/` - Folder containing CSS styles.
+* `img/` - Folder containing images used on the website.
 
-## Objetivo
+## Objective
 
-Este projeto tem como objetivo praticar e reforçar conceitos fundamentais de HTML e CSS na criação de um site simples e responsivo.
+The objective of this project is to practice and reinforce fundamental concepts of HTML and CSS in creating a simple and responsive website.
 
-## Contribuição
+## Contribution
 
-Este repositório foi criado para fins de estudo, mas se quiser sugerir melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
+This repository was created for study purposes, but if you want to suggest improvements, feel free to open an issue or submit a pull request.
 
-## Licença
+## License
 
-Este projeto é de livre acesso para estudos e aprimoramento.
+This project is freely accessible for study and improvement.
